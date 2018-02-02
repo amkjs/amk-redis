@@ -1,0 +1,24 @@
+{
+  "name": "amk-redis",
+  "version": "0.1.0",
+  "description": "redis library for amk framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amkjs/amk-redis.git"
+  },
+  "keywords": [
+    "amk",
+    "redis",
+    "nodejs"
+  ],
+  "author": "heinrich10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amkjs/amk-redis/issues"
+  },
+  "homepage": "https://github.com/amkjs/amk-redis#readme"
+}
